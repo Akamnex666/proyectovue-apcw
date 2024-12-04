@@ -208,7 +208,7 @@ export default {
 </script>
 <style scoped>
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #f0f4f8;
     margin: 0;
     padding: 0;

@@ -163,7 +163,7 @@ export default {
 
 <style scoped>
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     background: #3aad5767;
     margin: 0;
     padding: 0;

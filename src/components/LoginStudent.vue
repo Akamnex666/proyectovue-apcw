@@ -73,7 +73,7 @@ export default {
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #eaf7e9; /* Fondo verde claro */
     display: flex;
     justify-content: center;
